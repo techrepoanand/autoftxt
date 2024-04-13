@@ -55,8 +55,5 @@
 ```
 
 ## Credits
-- [ TS BOTS](https://github.com/Ts-Bots) For TG Channel Auto Caption
-- [Fayas Noushad](https://github.com/FayasNoushad) For TG Channel Auto Forward
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
-- [Jack-of-tg](https://github.com/Jack-of-tg) For media ReplaceBot
 ---
